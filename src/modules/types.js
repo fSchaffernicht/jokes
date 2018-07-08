@@ -1,0 +1,5 @@
+export const APP_INIT = 'APP_INIT'
+
+export const FETCH_JOKE = 'FETCH_JOKE'
+export const FETCH_JOKE_FAILED = 'FETCH_JOKE_FAILED'
+export const FETCH_JOKE_SUCCESS = 'FETCH_JOKE_SUCCESS'
